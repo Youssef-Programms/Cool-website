@@ -6,10 +6,6 @@
     font-family: 'Bernaber';
     src: url("Fonts/Bernaber.ttf");
 }
-@font-face {
-  font-family: 'Scool';
-  src: url('Fonts/Scool.ttf')
-}
 
 
 
@@ -55,7 +51,6 @@ button {
 }
 p{
   font-size: 40px;
-  font-family: "Scool",sans-serif;
     text-align: center;
     color:Tomato;
 }
