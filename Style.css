@@ -56,10 +56,8 @@ button {
 p{
   font-size: 40px;
   font-family: "Scool",sans-serif;
-  background: -webkit-linear-gradient(Tomato,#6089d6);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: cover;
-  text-align: center;
+    text-align: center;
+    color:Tomato;
 }
 img{
   width: 40px;
