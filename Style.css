@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Decaydence';
+    src: url("Fonts/Decaydence.ttf");
+}
+@font-face {
+    font-family: 'Bernaber';
+    src: url("Fonts/Bernaber.ttf");
+}
+@font-face {
+  font-family: 'Scool';
+  src: url('Fonts/Scool.ttf')
+}
+
+
+
+body{
+    background-image: url(Pics/StockCake-Illuminated\ Neon\ Blocks_1724106611.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+h1 {
+  font-family: 'Decaydence', sans-serif;
+  text-align: center;
+  font-size: 1.5cm;
+  text-decoration: underline;
+  text-decoration-color: #c93333;
+  background: -webkit-linear-gradient(#2b5ebe, #c93333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: relative;
+
+  top: 40px;
+  
+}
+h2{
+    font-family: cursive;
+    color: blueviolet;
+    font-size: 72px;
+  background: -webkit-linear-gradient(#6089d6, #a86969);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  font-family: "Bernaber",sans-serif;
+  text-align: center;
+  
+
+}
+button {
+    border-color: #2b5ebe;
+    border-radius: 10px;
+    color: #6089d6;
+    background: -webkit-linear-gradient(#c1d0ec, #db9494);
+}
+p{
+  font-size: 40px;
+  font-family: "Scool",sans-serif;
+  background: -webkit-linear-gradient(Tomato,#6089d6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: cover;
+  text-align: center;
+}
+img{
+  width: 40px;
+  position: relative;
+  left:63%;
+  bottom: 80px;
+  transform: rotate(90deg);
+}
+.a{
+  width: 30px;
+}
